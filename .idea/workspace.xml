@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/username.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2962963">
-              <caret line="33" column="73" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="73" />
+              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -761,12 +761,12 @@
       <created>1466389072373</created>
       <option name="number" value="Default" />
       <updated>1466389072373</updated>
-      <workItem from="1466389076272" duration="13812000" />
+      <workItem from="1466389076272" duration="13908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13812000" />
+    <option name="totallyTimeSpent" value="13908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -850,7 +850,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/username.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2962963">
-          <caret line="33" column="73" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="73" />
+          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
           <folding />
         </state>
       </provider>
