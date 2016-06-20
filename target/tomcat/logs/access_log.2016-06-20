@@ -1,0 +1,2 @@
+127.0.0.1 - - [20/Jun/2016:16:06:49 +0800] "GET /register HTTP/1.1" 200 1801 http-bio-80-exec-1 979
+127.0.0.1 - - [20/Jun/2016:16:06:54 +0800] "GET /registname?username=%E5%BC%A0%E4%B8%89&1466410014386 HTTP/1.1" 200 13 http-bio-80-exec-2 86
